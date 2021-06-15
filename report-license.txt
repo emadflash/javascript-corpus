@@ -1,0 +1,118 @@
+[X] googlecreativelab/anypixel ;APACHE 2.0
+[X] michalsnik/aos
+[X] apexcharts/apexcharts
+[X] algolia/autocomplete
+[X] LeaVerou/awesomplete
+[X] kennethcachia/Background-Check
+[X] feimosi/baguetteBox
+[X] kazzkiq/balloon
+[X] bcoin-org/bcoin
+[X] rishabhp/bideo ;no LICENSE provided
+[X] dinbror/blazy
+[X] bradley/blotter ;most likely MIT
+[X] tictail/bounce
+[X] callmecavs/bricks
+[X] metafloor/bwip-js
+[X] c3js/c3
+[X] gionkunz/chartist-js ;most likey MIT
+[X] chartjs/Chart
+[X] jshjohnson/Choices
+[X] nosir/cleave ;APACHE 2.0
+[X] NeXTs/Clusterize ;GPL
+[X] GetmeUK/ContentTools
+[X] inorganik/CountUp
+[X] foliotek/croppie
+[X] dixso/custombox ;no LICENSE provided
+[X] date-fns/date-fns
+[X] Shopify/draggable
+[X] bevacqua/dragula
+[X] imgix/drift ;BSD-2
+[X] cferdinandi/drop
+[X] agence-webup/dropmic
+[X] enyo/dropzone
+[X] michaelvillar/dynamics
+[X] GitSquared/edex-ui ;GPL 3.0
+[X] tholman/elevator
+[X] ritz078/embed
+[X] eqcss/eqcss
+[X] expressjs/express
+[X] kangax/fabric
+[X] viljamis/feature
+[X] chmln/flatpickr
+[X] frend/frend
+[X] jedrzejchalubek/glidejs
+[X] grafijs/grafi ;APACHE 2.0
+[X] greensock/GreenSock-JS ;CUSTOM LICENSE
+[X] WickyNilliams/headroom
+[X] Haroenv/holmes ;APACHE 2.0
+[X] bevacqua/horsey
+[X] bitshadow/iconate
+[X] impress/impress
+[X] tholman/intense-images
+[X] bfred-it/iphone-inline-video
+[X] kaimallea/isMobile
+[X] metafizzy/isotope ;CUSTOM LICENSE
+[X] jquery/jquery
+[X] jsdom/jsdom
+[X] callmecavs/jump
+[X] JoelOtter/kajero
+[X] madrobby/keymaster
+[X] aFarkas/lazysizes
+[X] sparanoid/lightense-images
+[X] javve/list
+[X] lodash/lodash
+[X] meandmax/lory
+[X] mahdif/loud-links
+[X] julmot/mark
+[X] yabwe/medium-editor
+[X] asvd/microlight
+[X] henriquea/minigrid
+[X] legomushroom/mojs
+[X] jacoborus/nanobar
+[X] leongersen/noUiSlider
+[X] wagerfield/parallax
+[X] VincentGarreau/particles
+[X] dimsemenov/PhotoSwipe
+[X] dbushell/Pikaday
+[X] pixijs/pixi
+[X] algolia/places
+[X] selz/plyr
+[X] Popmotion/popmotion ;no LICENSE provided
+[X] FezVrasta/popper
+[X] kimmobrunfeldt/progressbar
+[X] Nickersoft/push
+[X] quilljs/quill ;BSD-3
+[X] davidmerfield/randomColor ;CCO.1.0
+[X] dixonandmoe/rellax
+[X] bevacqua/rome
+[X] mciastek/sal
+[X] jlmakes/scrollreveal ;CUSTOM LICENSE - saying use for open source under GPL terms
+[X] terwanerik/ScrollTrigger
+[X] themadcreator/seen ;APACHE 2.0
+[X] lmgonzalves/segment
+[X] HubSpot/select
+[X] HubSpot/shepherd
+[X] LPology/Simple-Ajax-Uploader ;no LICENSE provided - saying on readme that its realase under MIT
+[X] adobe-webplatform/Snap ;APACHE
+[X] tmort/Socialite
+[X] RubaXa/Sortable
+[X] fgnass/spin
+[X] LunarLogic/starability
+[X] rgalus/sticky-js
+[X] limonte/sweetalert2
+[X] t4t5/sweetalert
+[X] nolimits4web/swiper
+[X] sbstjn/timesheet
+[X] robinparisi/tingle
+[X] tinymce/tinymce ;LGPL-2.1
+[X] qrohlf/trianglify ;GPL 3.0
+[X] nathanford/type ;no LICENSE provided
+[X] jashkenas/underscore
+[X] JenkinsDev/Validatinator
+[X] thephuse/vanilla-modal
+[X] julianshapiro/velocity
+[X] maxwellito/vivus
+[X] peduarte/wallop
+[X] imakewebthings/waypoints
+[X] cferdinandi/x-ray
+[X] malchata/yall
